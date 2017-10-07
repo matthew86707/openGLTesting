@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["TJHL"]
 
 [dependencies]
-glium = "*"
+glium = "0.17.1"
